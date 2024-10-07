@@ -1,6 +1,6 @@
 <?php
 
-namespace block_user_table\controllers;
+namespace block_user_table\controller;
 
 /**
  * Example:

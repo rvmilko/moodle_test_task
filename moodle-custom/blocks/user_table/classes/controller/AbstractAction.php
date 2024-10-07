@@ -1,6 +1,7 @@
 <?php
 
-namespace block_user_table\controllers;
+namespace block_user_table\controller;
+
 abstract class AbstractAction
 {
     abstract public function execute();
